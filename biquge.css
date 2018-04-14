@@ -1,0 +1,39 @@
+html{
+    background-color: #f6f1e7;
+    font-family: "Arial";
+}
+  
+div{
+    margin: 2em;
+    align-self:center;
+    line-height:2em;
+    border: 10px;
+}
+
+hr{
+    height:2px;
+    border:none;
+    border-top:2px dotted #185598;
+}
+
+#title{
+    font-size: 22px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+  
+#content{  
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-block-start: 2em;
+}
+
+#next{
+    font-size: 22px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
